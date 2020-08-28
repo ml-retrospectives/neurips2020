@@ -1,7 +1,7 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-name: ML Retrospectives ICML Workshop
+name: ML Retrospectives NeurIPS Workshop
 email:
 description: > # this means to ignore newlines until "url:"
   A Venue for Self-Reflection in ML Research
@@ -11,7 +11,7 @@ footer_text: >
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 
 url:  # the base hostname & protocol for your site
-baseurl: /icml2020 # the subpath of your site, e.g. /blog/
+baseurl: /neurips2020 # the subpath of your site, e.g. /blog/
 last_updated: # leave blank if you don't want to display last updated
 
 # -----------------------------------------------------------------------------
