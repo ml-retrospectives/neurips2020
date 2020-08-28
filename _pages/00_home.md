@@ -12,33 +12,28 @@ The [NeurIPS](https://neurips.cc/) Retrospectives Workshop is about reflecting o
 In conjunction with [NeurIPS](https://neurips.cc/), the workshop will be held virtually.  Please see our [schedule](https://ml-retrospectives.github.io/neurips2020/schedule/) for details.
 
 
-### What is a retrospective?
-
-A retrospective is written about a single paper, by that paper's author, and takes the form of an informal blog post. The purpose of a retrospective is to answer the question:
-
-#### *“What should readers of this paper know now, that is not in the original publication?”*
-
-The overarching goal of retrospectives is to do better science, increase the openness and accessibility of the machine learning field, and to show that **it’s okay to make mistakes**.
-We are accompanying the workshop with the open-source release of a retrospectives platform on GitHub called [ML Retrospectives](https://ml-retrospectives.github.io/), which will host retrospective submissions going forward after NeurIPS 2020.
-
 ### Confirmed Speakers
 
-_Please keep an eye out for coming announcements here._
+Shakir Mohamed, Deepmind
+Kilian Q. Weinberger, Cornell/ASAP
+Adji Bousso Dieng, Google AI
+Reza Shokri, NUS
+Lana Sinapayen, Sony CSL
+Shibani Santurkar, MIT
+Maria De-Arteaga, UT Austin
 
 
-### How do I submit?
+### Submissions?
 
-We accept submissions through our OpenReview (_link forthcoming_). Submissions can be from any subfield of machine learning or related fields of interest to the NeurIPS community.  The main goal of the workshop is to widen what is publishable in ML, and to introduce researchers to more public reflections of their work as part of an ongoing effort to disseminate scientific knowledge more effectively and openly.
+We accept submissions through CMT (_link forthcoming_) in NeurIPS format. Submissions can be from any subfield of machine learning or related fields of interest to the NeurIPS community.
 
-**Main deadline: _date forthcoming_ 23:59 Anywhere on Earth. Accept/reject notification will be sent out _date forthcoming_.**
+**Deadline: 23rd October, 23:59 Anywhere on Earth. Accept/reject notification will be sent out on 30th October.** No extensions possible.
 
-**Late-breaking deadline: _date forthcoming_ 23:59 Anywhere on Earth. Accept/reject notification will be sent out _date forthcoming_.**
-
-Our [CFP](https://ml-retrospectives.github.io/neurips2020/cfp/) provides additional details on how to write and submit a retrospective.
+Checkout our [CFP](https://ml-retrospectives.github.io/neurips2020/cfp/) for additional details.
 
 ### Organizers
 
-* [Chhavi Yadav](https://scholar.google.com/citations?user=8Dwi76kAAAAJ&hl=en), NYU / Walmart Labs
+* [Chhavi Yadav](https://scholar.google.com/citations?user=8Dwi76kAAAAJ&hl=en), UCSD
 * [Prabhu Pradhan](https://scholar.google.co.in/citations?hl=en&user=cGKDiRMAAAAJ), Max Planck Institute for Intelligent Systems (MPI-IS)
 * [Abhishek Gupta](https://atg-abhishek.github.io), Montreal AI Ethics Institute / Microsoft
 * [Ryan Lowe](https://www.cs.mcgill.ca/~rlowe1/), Mila / McGill University
