@@ -39,7 +39,7 @@ Our [CFP](https://ml-retrospectives.github.io/neurips2020/cfp/) provides additio
 ### Organizers
 
 * [Chhavi Yadav](https://scholar.google.com/citations?user=8Dwi76kAAAAJ&hl=en), NYU / Walmart Labs
-* [Prabhu Pradhan](https://scholar.google.com/citations?user=8Dwi76kAAAAJ&hl=en), Max Planck Institute for Intelligent Systems
+* [Prabhu Pradhan](https://scholar.google.co.in/citations?hl=en&user=cGKDiRMAAAAJ), Max Planck Institute for Intelligent Systems (MPI-IS)
 * [Abhishek Gupta](https://atg-abhishek.github.io), Montreal AI Ethics Institute / Microsoft
 * [Ryan Lowe](https://www.cs.mcgill.ca/~rlowe1/), Mila / McGill University
 * [Jessica Forde](https://github.com/jzf2101), Brown University
