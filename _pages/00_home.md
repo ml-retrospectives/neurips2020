@@ -1,8 +1,8 @@
 ---
 layout: home
 permalink: /
-title: ICML2020
-desc_title: Retrospectives Workshop @ ICML 2020
+title: NeurIPS 2020
+desc_title: Retrospectives Workshop @ NeurIPS 2020
 description: A venue for self-reflection in machine learning research
 ---
 
