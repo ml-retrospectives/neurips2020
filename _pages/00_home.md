@@ -14,13 +14,13 @@ In conjunction with [NeurIPS](https://neurips.cc/), the workshop will be held vi
 
 ### Confirmed Speakers
 
-Shakir Mohamed, Deepmind
-Kilian Q. Weinberger, Cornell/ASAP
-Adji Bousso Dieng, Google AI
-Reza Shokri, NUS
-Lana Sinapayen, Sony CSL
-Shibani Santurkar, MIT
-Maria De-Arteaga, UT Austin
+* Shakir Mohamed, Deepmind
+* Kilian Q. Weinberger, Cornell/ASAP
+* Adji Bousso Dieng, Google AI
+* Reza Shokri, NUS
+* Lana Sinapayen, Sony CSL
+* Shibani Santurkar, MIT
+* Maria De-Arteaga, UT Austin
 
 
 ### Submissions?
