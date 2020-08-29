@@ -33,7 +33,7 @@ The overarching goal of retrospectives is to do better science, increase the ope
 
 #### How to submit
 
-Submissions to the Retrospectives workshop will be handled through CMT (_link forthcoming_).
+Submissions to the Retrospectives workshop will be handled through CMT (_link forthcoming_). While there is no page limit, we expect authors to be concise. 
 
 **Main deadline: October 23 23:59 Anywhere on Earth. Accept/reject notification will be sent out October 30**
 
@@ -47,5 +47,6 @@ Submissions will be evaluated on the following criteria:
 - Clarity of writing
 - Vulnerability and honesty in discussion, particularly if the submission is by the original author
 - Quality of discussion of limitations
-- Significance of new insights
-- Presentation of new results or figures
+- Significance of new insights (when applicable)
+- Presentation of new results or figures (when applicable)
+- Thoroughness of literature review (when applicable)
