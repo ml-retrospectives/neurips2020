@@ -40,4 +40,5 @@ Checkout our [CFP](https://ml-retrospectives.github.io/neurips2020/cfp/) for add
 * [Jessica Forde](https://github.com/jzf2101), Brown University
 * [Jesse Dodge](http://www.cs.cmu.edu/~jessed/), CMU
 * [Mayoore Jaiswal](https://scholar.google.com/citations?user=Ek3v6HcAAAAJ&hl=en), IBM Research
+* [Peter Henderson](https://www.peterhenderson.co/), Stanford University
 * [Joelle Pineau](https://www.cs.mcgill.ca/~jpineau/), Mila / McGill University / Facebook AI
