@@ -27,19 +27,19 @@ There are many kinds of meta-analysis papers.  Here are a few examples:
 
 **_We strongly encourage junior researchers especially from eclectic fields to write surveys & meta-analyses (S&A)._**
 
+A retrospective is written about a single paper, by that paper’s author, and takes the form of an informal blog post. 
+The purpose of a retrospective is to answer the question:“What should readers of this paper know now, that is not in the original publication?” 
+The overarching goal of retrospectives is to do better science, increase the openness and accessibility of the machine learning field, and to show that it’s okay to make mistakes.
+
 #### How to submit
 
-Submissions to the Retrospectives workshop will be handled through OpenReview (_date forthcoming_). Please upload a pdf of your retrospective to the website.
+Submissions to the Retrospectives workshop will be handled through CMT (_link forthcoming_).
 
-**Main deadline: _date forthcoming_ 23:59 Anywhere on Earth. Accept/reject notification will be sent out _date forthcoming_**
-
-**Late-breaking deadline: _date forthcoming_ 23:59 Anywhere on Earth. Accept/reject notification will be sent out _date forthcoming_.**
-
-Camera ready versions will be submitted as markdown files through our [GitHub repository page](https://github.com/ml-retrospectives/neurips2020) for publication online.  The camera-ready submission template is available on [GitHub](https://raw.githubusercontent.com/ml-retrospectives/ml-retrospectives.github.io/master/.github/ISSUE_TEMPLATE/submit-retrospective.md).
+**Main deadline: October 23 23:59 Anywhere on Earth. Accept/reject notification will be sent out October 30**
 
 #### Reviewing criteria
 
-We will be selecting for submissions that provide interesting insights, admissions, or new perspectives on old work. Morevover, we expect all submissions to follow the guidelines of basic courtesy and respect, and to abide by our [code of conduct](https://ml-retrospectives.github.io/coc). While there is no page limit, we encourage authors to be concise.  
+We expect all submissions to follow the guidelines of basic courtesy and respect, and to abide by our [code of conduct](https://ml-retrospectives.github.io/coc). While there is no page limit, we encourage authors to be concise.  
 
 Submissions will be evaluated on the following criteria:
 
