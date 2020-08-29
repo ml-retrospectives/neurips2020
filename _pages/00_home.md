@@ -15,13 +15,30 @@ In conjunction with [NeurIPS](https://neurips.cc/), the workshop will be held vi
 
 ### Confirmed Speakers
 
-* Shakir Mohamed, Deepmind
-* Kilian Q. Weinberger, Cornell/ASAP
-* Adji Bousso Dieng, Google AI
-* Reza Shokri, NUS
-* Lana Sinapayen, Sony CSL
-* Shibani Santurkar, MIT
-* Maria De-Arteaga, UT Austin
+<table style="width:75%">
+  <tr>
+    <td style="text-align:center"><img src="https://www.comp.nus.edu.sg/~reza/img/reza.jpg" height="175"></td>
+    <td style="text-align:center"><img src="http://shakirm.com/wp-content/uploads/2015/04/shakir_pic.jpg" height="175"></td>
+    <td style="text-align:center"><img src="https://adjidieng.github.io/Adji-profile.jpg" height="175"></td>
+    <td style="text-align:center"><img src="https://pbs.twimg.com/profile_images/922818437172281345/CBcv5HLL_400x400.jpg" height="175"></td>
+  </tr>
+  <tr>
+    <td style="text-align:center"><a href="https://www.comp.nus.edu.sg/~reza/">Reza Shokri</a> <br> NUS</td>
+    <td style="text-align:center"><a href="https://shakirm.com/">Shakir Mohamed</a> <br>Deepmind</td>
+    <td style="text-align:center"><a href="https://adjidieng.github.io/">Adji Bousso Dieng</a> <br>Google AI</td>
+    <td style="text-align:center"><a href="https://lanasina.github.io/">Lana Sinapayen</a> <br>Sony CSL</td>
+  </tr>
+  <tr>
+    <td style="text-align:center"><img src="https://www.cs.cornell.edu/~kilian/files/kilian.png" height="175"></td>
+    <td style="text-align:center"><img src="https://people.csail.mit.edu/shibani/shibani_photo.jpg" height="175"></td>
+    <td style="text-align:center"><img src="https://mariadearteaga.files.wordpress.com/2019/02/eb2a47741.jpg" height="175"></td>
+  </tr>
+  <tr>
+  <td style="text-align:center"><a href="https://www.cs.cornell.edu/~kilian/">Kilian Q. Weinberger</a> <br>Cornell/ASAP</td>
+    <td style="text-align:center"><a href="https://people.csail.mit.edu/shibani/">Shibani Santurkar</a> <br>MIT</td>
+    <td style="text-align:center"><a href="https://mariadearteaga.com/">Maria De-Arteaga</a> <br>UT Austin</td>
+  </tr>
+</table>
 
 
 ### Submissions?
