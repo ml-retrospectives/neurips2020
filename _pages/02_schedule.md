@@ -4,5 +4,5 @@ permalink: /schedule/
 title: Schedule
 ---
 
-# NeurIPS 2020 Retrospectives Workshop Schedule
+# ML-RSA @ NeurIPS 2020 Workshop Schedule
 _schedule forthcoming_

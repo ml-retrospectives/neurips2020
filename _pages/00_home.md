@@ -2,12 +2,12 @@
 layout: home
 permalink: /
 title: NeurIPS 2020
-desc_title: Retrospectives Workshop @ NeurIPS 2020
-description: A venue for self-reflection in machine learning research
+desc_title: ML-RSA @ NeurIPS 2020
+description: A venue for reflection in machine learning research
 ---
 
 
-The [NeurIPS](https://neurips.cc/) Retrospectives Workshop is about reflecting on machine learning research. This workshop builds upon the [NeurIPS 2019 Retrospectives Workshop](https://ml-retrospectives.github.io/neurips2019/) and [ICML 2020 Retrospectives Workshop](https://ml-retrospectives.github.io/icml2020/) and encourages the exploration of a new kind of scientific publication, called *retrospectives*.
+The ML-RSA @ [NeurIPS](https://neurips.cc/) 2020 Workshop is about reflecting on machine learning research. This workshop builds upon the [NeurIPS 2019 Retrospectives Workshop](https://ml-retrospectives.github.io/neurips2019/) and [ICML 2020 Retrospectives Workshop](https://ml-retrospectives.github.io/icml2020/) and encourages the exploration of a new kind of scientific publication, called *retrospectives*.
 
 In conjunction with [NeurIPS](https://neurips.cc/), the workshop will be held virtually.  Please see our [schedule](https://ml-retrospectives.github.io/neurips2020/schedule/) for details.
 

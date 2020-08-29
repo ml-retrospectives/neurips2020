@@ -28,7 +28,7 @@ There are many kinds of meta-analysis papers.  Here are a few examples:
 **_We strongly encourage junior researchers especially from eclectic fields to write surveys & meta-analyses (S&A)._**
 
 A retrospective is written about a single paper, by that paper’s author, and takes the form of an informal blog post. 
-The purpose of a retrospective is to answer the question:“What should readers of this paper know now, that is not in the original publication?” 
+The purpose of a retrospective is to answer the question: “What should readers of this paper know now, that is not in the original publication?” 
 The overarching goal of retrospectives is to do better science, increase the openness and accessibility of the machine learning field, and to show that it’s okay to make mistakes.
 
 #### How to submit
