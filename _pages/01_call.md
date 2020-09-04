@@ -27,13 +27,13 @@ There are many kinds of meta-analysis papers.  Here are a few examples:
 
 **_We strongly encourage junior researchers especially from eclectic fields to write surveys & meta-analyses (S&A)._**
 
-A retrospective is written about a single paper, by that paper’s author, and takes the form of an informal blog post. 
+A **Retrospective** is written about a single paper, by that paper’s author, and takes the form of an informal blog post. 
 The purpose of a retrospective is to answer the question: “What should readers of this paper know now, that is not in the original publication?” 
 The overarching goal of retrospectives is to do better science, increase the openness and accessibility of the machine learning field, and to show that it’s okay to make mistakes.
 
 #### How to submit
 
-Submissions to the Retrospectives workshop will be handled through CMT (_link forthcoming_). While there is no page limit, we expect authors to be concise. 
+Submissions to the Retrospectives workshop will be handled through [CMT](https://cmt3.research.microsoft.com/MLRSA2020). While there is no page limit, we expect authors to be concise. 
 
 **Main deadline: October 23 23:59 Anywhere on Earth. Accept/reject notification will be sent out October 30**
 
