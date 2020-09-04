@@ -43,7 +43,7 @@ In conjunction with [NeurIPS](https://neurips.cc/), the workshop will be held vi
 
 ### Submissions?
 
-We accept submissions through CMT (_link forthcoming_) in NeurIPS format. Submissions can be from any subfield of machine learning or related fields of interest to the NeurIPS community.
+We accept submissions through [CMT](https://cmt3.research.microsoft.com/MLRSA2020) in NeurIPS format. Submissions can be from any subfield of machine learning or related fields of interest to the NeurIPS community.
 
 **Deadline: 23rd October, 23:59 Anywhere on Earth. Accept/reject notification will be sent out on 30th October.** No extensions possible.
 
