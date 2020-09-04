@@ -33,9 +33,9 @@ The overarching goal of retrospectives is to do better science, increase the ope
 
 #### How to submit
 
-Submissions to the ML-RSA workshop will be handled through CMT (_link forthcoming_). While there is no page limit, we expect authors to be concise. 
+Submissions to the ML-RSA workshop will be handled through [CMT](https://cmt3.research.microsoft.com/MLRSA2020) in NeurIPS format. While there is no page limit, we expect authors to be concise. 
 
-**Main deadline: October 23 23:59 Anywhere on Earth. Accept/reject notification will be sent out October 30**
+**Final deadline: October 23, 23:59 (Anywhere on Earth). Accept/reject notification will be sent out October 30**
 
 #### Reviewing criteria
 
