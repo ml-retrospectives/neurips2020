@@ -5,4 +5,4 @@ title: Schedule
 ---
 
 # ML-RSA @ NeurIPS 2020 Workshop Schedule
-_schedule forthcoming_
+**The workshop will take place on December 11, 2020. More details forthcoming soon.**

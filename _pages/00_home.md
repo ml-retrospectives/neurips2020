@@ -10,6 +10,8 @@ description: A venue for reflection in machine learning research
 The ML-Retrospectives, Surveys & Meta-Analyses @ [NeurIPS](https://neurips.cc/) 2020 Workshop is about reflecting on machine learning research. 
 This workshop is a new edition of the previous Retrospectives Workshops at [NeurIPS'19](https://ml-retrospectives.github.io/neurips2019) and [ICML'20](https://ml-retrospectives.github.io/icml2020/) respectively. While earlier the focus of the workshop was primarily on Retrospectives, this time the focus is on surveys & meta-analyses. The enormous scale of research in AI has led to a myriad of publications. Surveys & Meta-Analyses meet the need of taking a step back and looking at a sub-field as a whole to evaluate actual progress. However, we will also accept retrospectives.
 
+**The workshop will be held on December 11, 2020.**
+
 In conjunction with [NeurIPS](https://neurips.cc/), the workshop will be held virtually.  Please see our [schedule](https://ml-retrospectives.github.io/neurips2020/schedule/) for details.
 
 
@@ -43,7 +45,7 @@ In conjunction with [NeurIPS](https://neurips.cc/), the workshop will be held vi
 
 ### Submissions?
 
-We accept submissions through [CMT](https://cmt3.research.microsoft.com/MLRSA2020) in NeurIPS format. Submissions can be from any subfield of machine learning or related fields of interest to the NeurIPS community.
+We accept submissions through [CMT](https://cmt3.research.microsoft.com/MLRSA2020) in NeurIPS format which should be anonymized to remove any author related information. Submissions can be from any subfield of machine learning or related fields of interest to the NeurIPS community. 
 
 **Deadline: 23rd October, 23:59 Anywhere on Earth. Accept/reject notification will be sent out on 30th October.** No extensions possible.
 
