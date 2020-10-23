@@ -37,6 +37,11 @@ Submissions to the ML-RSA workshop will be handled through [CMT](https://cmt3.re
 
 **Final deadline: October 23, 23:59 (Anywhere on Earth). Accept/reject notification will be sent out October 30**
 
+#### Submission Policy
+We follow **double-blind** reviewing system (hence any author-identifying information should be removed from submissions).
+**We accept submissions of work submitted elsewhere** (if it doesn't violate their policy) or substantial extensions of works presented at other venues (not in archival proceedings). 
+**We however do not accept work that has been previously published/accepted in a journal or conference proceedings** (including the main NeurIPS conference).
+
 #### Reviewing criteria
 
 We expect all submissions to follow the guidelines of basic courtesy and respect, and to abide by our [code of conduct](https://ml-retrospectives.github.io/coc).
