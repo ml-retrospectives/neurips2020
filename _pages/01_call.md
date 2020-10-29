@@ -35,11 +35,13 @@ The overarching goal of retrospectives is to do better science, increase the ope
 
 Submissions to the ML-RSA workshop will be handled through [CMT](https://cmt3.research.microsoft.com/MLRSA2020) in NeurIPS format anonymized to remove any author related information. While there is no page limit, we expect authors to be concise. 
 
-**Final deadline: October 23, 23:59 (Anywhere on Earth). Accept/reject notification will be sent out October 30**
+**Deadline: </s>23rd October, 23:59 Anywhere on Earth</s>. Accept/reject notification will be sent out by 31st October.**
+
+**Final deadline to upload (contributed) paper talks: 14th November**
 
 #### Submission Policy
 - We follow **double-blind** reviewing system (all author-identifying information should be removed from submissions).
-- **We accept submissions of work submitted elsewhere** (if it doesn't violate their policy), or substantial extensions of works presented at other venues (not in archival proceedings). 
+- **We accept submissions of work submitted elsewhere** (including arxiv.org) if it doesn't violate that venue's own policy, or substantial extensions of works presented at other venues (not in archival proceedings).
 - **We however do not accept work that has been previously published/accepted in a journal or conference proceedings** (including the main NeurIPS conference).
 
 #### Reviewing criteria
