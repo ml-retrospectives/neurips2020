@@ -47,7 +47,7 @@ In conjunction with [NeurIPS](https://neurips.cc/), the workshop will be held vi
 
 We accept submissions through [CMT](https://cmt3.research.microsoft.com/MLRSA2020) in NeurIPS format which should be anonymized to remove any author related information. Submissions can be from any subfield of machine learning or related fields of interest to the NeurIPS community. 
 
-**Deadline: <s>23rd October, 23:59 Anywhere on Earth</s>. Accept/reject notification will be sent out by 31st October.**
+**Deadline: <s>23rd October, 23:59 Anywhere on Earth</s>. Accept/reject notification will be sent out by <s>31st Oct</s> 2nd November.**
 
 **Final deadline to upload (contributed) paper talks: 14th November**
 
