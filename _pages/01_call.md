@@ -39,7 +39,7 @@ Submissions to the ML-RSA workshop will be handled through [CMT](https://cmt3.re
 
 **Final deadline to upload (contributed) paper talks: 14th November**
 
-**Please see [here](https://github.com/ml-retrospectives/neurips2020/blob/master/mlrsa_2020.sty) for the LaTeX template to be used for submission.**
+**Please see [here](https://github.com/ml-retrospectives/neurips2020/blob/master/mlrsa_2020.sty) for the LaTeX style file to be used for final submission.**
 
 #### Submission Policy
 - We follow **double-blind** reviewing system (all author-identifying information should be removed from submissions).
