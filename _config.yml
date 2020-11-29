@@ -37,7 +37,7 @@ blog_name: Accepted Retrospectives
 blog_description: These are retrospectives which have been reviewed and accepted.
 
 # Pagination
-paginate: 4
+paginate: 30
 permalink: /accepted_retrospectives/:year/:title/
 paginate_path: /accepted_retrospectives/page:num/
 
@@ -60,7 +60,7 @@ enable_katex:       true
 collections:
   news:
     defaults:
-      layout: post
+      layout: retrospective
     output: true
     permalink: /news/:path/
   # projects:
