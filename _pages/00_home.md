@@ -20,7 +20,9 @@ In conjunction with [NeurIPS](https://neurips.cc/), the workshop will be held vi
 <table style="width:75%">
   <tr>
     <td style="text-align:center"><img src="https://www.comp.nus.edu.sg/~reza/img/reza.jpg" height="175"></td>
-    <td style="text-align:center"><img src="http://shakirm.com/wp-content/uploads/2015/04/shakir_pic.jpg" height="175"></td>
+    <td style="text-align:center"><img src="{{ '/speaker_pictures/shakir_cuba1.jpg' | prepend: site.baseurl }}" height
+    ="175
+    "></td>
     <td style="text-align:center"><img src="https://adjidieng.github.io/Adji-profile.jpg" height="175"></td>
     <td style="text-align:center"><img src="https://pbs.twimg.com/profile_images/922818437172281345/CBcv5HLL_400x400.jpg" height="175"></td>
   </tr>
@@ -31,7 +33,8 @@ In conjunction with [NeurIPS](https://neurips.cc/), the workshop will be held vi
     <td style="text-align:center"><a href="https://lanasina.github.io/">Lana Sinapayen</a> <br>Founding Member, Sony CSL Kyoto</td>
   </tr>
   <tr>
-    <td style="text-align:center"><img src="https://www.cs.cornell.edu/~kilian/files/kilian.png" height="175"></td>
+    <td style="text-align:center"><img src="{{ '/speaker_pictures/kilian.png' | prepend: site.baseurl
+     }}" height="175"></td>
     <td style="text-align:center"><img src="https://people.csail.mit.edu/shibani/shibani_photo.jpg" height="175"></td>
     <td style="text-align:center"><img src="https://mariadearteaga.files.wordpress.com/2019/02/eb2a47741.jpg" height="175"></td>
   </tr>

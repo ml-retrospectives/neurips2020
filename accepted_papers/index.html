@@ -10,8 +10,10 @@ layout: page
 
 <ul class="post-list">
   {% for post in paginator.posts %}
-    <li>
-      <h4><a href="{{ post.original_paper_link | prepend: site.baseurl }}">{{ post.title }}</a></h4>
+    <li style="padding-top: .5em; padding-bottom: .5em; border-bottom: none;">
+      <h4 style="margin-top: 0em; margin-bottom: 0px;"><a
+              href="{{ post.original_paper_link | prepend: site.baseurl }}">{{ post.title
+        }}</a></h4>
       <p class="post-meta">{{ post.author }}</p>
 <!--      <p class="post-meta">{{ post.date | date: '%B %-d, %Y' }}</p>-->
     </li>
