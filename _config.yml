@@ -33,13 +33,13 @@ google_analytics: UA-XXXXXXXXX # out your google-analytics code
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
-blog_name: Accepted Retrospectives
-blog_description: These are retrospectives which have been reviewed and accepted.
+blog_name: Accepted Papers
+blog_description: These are papers which have been reviewed and accepted.
 
 # Pagination
 paginate: 30
-permalink: /accepted_retrospectives/:year/:title/
-paginate_path: /accepted_retrospectives/page:num/
+permalink: /accepted_papers/:year/:title/
+paginate_path: /accepted_papers/page:num/
 
 text:
   pagination:
