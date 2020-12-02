@@ -30,7 +30,7 @@ In conjunction with [NeurIPS](https://neurips.cc/), the workshop will be held vi
     <td style="text-align:center"><a href="https://www.comp.nus.edu.sg/~reza/">Reza Shokri</a> <br>Assistant Professor, NUS</td>
     <td style="text-align:center"><a href="https://shakirm.com/">Shakir Mohamed</a> <br>Senior Staff Scientist, Deepmind</td>
     <td style="text-align:center"><a href="https://adjidieng.github.io/">Adji Bousso Dieng</a> <br>Research Scientist, Google AI</td>
-    <td style="text-align:center"><a href="https://lanasina.github.io/">Lana Sinapayen</a> <br>Founding Member, Sony CSL Kyoto</td>
+    <td style="text-align:center"><a href="https://lanasina.github.io/">Lana Sinapayen</a> <br>Associate Researcher, Sony CSL Kyoto</td>
   </tr>
   <tr>
     <td style="text-align:center"><img src="{{ '/speaker_pictures/kilian.png' | prepend: site.baseurl
