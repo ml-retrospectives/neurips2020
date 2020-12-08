@@ -6,7 +6,7 @@ title: Schedule
 
 # NeurIPS 2020 ML-RSA Workshop Schedule
 
-Friday, December 11 Times are listed in Eastern Daylight Time. [See NeurIPS page for full details and links to talks.](https://neurips.cc/virtual/2020/public/workshop_16143.html)
+Friday, December 11 Times are listed in PST. [See NeurIPS page for full details and links to talks.](https://neurips.cc/virtual/2020/public/workshop_16143.html)
 
 | Opening Remarks & Announcing Paper Award Winners                   |  08:30-08:55   |
 | Invited Talk - [Shakir Mohamed](https://shakirm.com/)         | 09:00-09:30   |
