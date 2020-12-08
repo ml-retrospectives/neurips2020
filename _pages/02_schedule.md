@@ -11,7 +11,7 @@ Friday, December 11 Times are listed in Eastern Daylight Time. [See NeurIPS page
 | Opening Remarks & Announcing Paper Award Winners                   |  08:30-08:55   |
 | Invited Talk - [Shakir Mohamed](https://shakirm.com/)         | 09:00-09:30   |
 | Q&A - [Shakir Mohamed](https://shakirm.com/)  | 09:35-09:45  |
-| Break                    | 09:55-10:55 |
+| Brainstorming Session                    | 10:00-11:00 |
 | Invited Talk - [Kilian Weinberger](https://www.cs.cornell.edu/~kilian/)         | 10:55-11:30  |
 | Q&A - [Kilian Weinberger](https://www.cs.cornell.edu/~kilian/)         | 11:35-11:45  |
 | Panel                   | 12:00-12:45
@@ -24,6 +24,5 @@ Friday, December 11 Times are listed in Eastern Daylight Time. [See NeurIPS page
 | Q&A - [Lana Sinapayen   ](https://lanasina.github.io/)         | 17:35-17:45   |
 | Invited Talk - [Reza Shokri    ](https://www.comp.nus.edu.sg/~reza/)         | 17:55-18:30  |
 | Q&A - [Reza Shokri   ](https://www.comp.nus.edu.sg/~reza/)         | 18:35-18:45  |
-| Paper Award Talks                    | 19:40-19:45 |
-| Closing remarks & Brainstorming                 | 20:00-21:00 |
+| Paper Award Talks and Closing                    | 18:55-20:00 |
 
