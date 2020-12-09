@@ -57,8 +57,8 @@ Checkout our [CFP](https://ml-retrospectives.github.io/neurips2020/cfp/) for add
 
 ### Organizers
 
-* <b>[Chhavi Yadav](https://scholar.google.com/citations?user=8Dwi76kAAAAJ&hl=en)</b>, UCSD
-* <b>[Prabhu Pradhan](https://scholar.google.co.in/citations?hl=en&user=cGKDiRMAAAAJ&hl=en)</b>, Max Planck Institute for Intelligent Systems (MPI-IS)
+* <b>[Chhavi Yadav](https://scholar.google.com/citations?user=8Dwi76kAAAAJ&hl=en)</b>*, UCSD
+* <b>[Prabhu Pradhan](https://scholar.google.co.in/citations?hl=en&user=cGKDiRMAAAAJ&hl=en)</b>*, Max Planck Institute for Intelligent Systems (MPI-IS)
 * [Abhishek Gupta](https://atg-abhishek.github.io), Montreal AI Ethics Institute / Microsoft
 * [Peter Henderson](https://www.peterhenderson.co/), Stanford University
 * [Ryan Lowe](https://www.cs.mcgill.ca/~rlowe1/), MILA / McGill University
@@ -66,3 +66,5 @@ Checkout our [CFP](https://ml-retrospectives.github.io/neurips2020/cfp/) for add
 * [Jesse Dodge](http://www.cs.cmu.edu/~jessed/), CMU
 * [Mayoore Jaiswal](https://scholar.google.com/citations?user=Ek3v6HcAAAAJ&hl=en), IBM Research
 * [Joelle Pineau](https://www.cs.mcgill.ca/~jpineau/), MILA / McGill University / Facebook AI
+
+*=main correspondence 
